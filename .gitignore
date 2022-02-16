@@ -4,3 +4,7 @@
 .eslintrc.json
 .prettierrc
 node_modules
+shrinkwrap.yaml
+package-lock.json
+Procfile
+.glitch-assets
